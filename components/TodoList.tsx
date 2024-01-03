@@ -53,7 +53,7 @@ const TodoList = (props: TodoListProps) => {
       <TableHeader>
         <TableRow>
           {/* <TableHead className="w-[100px]">ステータス</TableHead> */}
-          <TableHead>ステータス</TableHead>
+          <TableHead>ID</TableHead>
           <TableHead>内容</TableHead>
           <TableHead className="text-right">削除</TableHead>
         </TableRow>
