@@ -1,8 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
-
-
+## デモ動画
 https://github.com/fukadashigeru/nextjs_supabase_todo/assets/45095615/3a7d5ad7-2ad1-46bb-948f-0133b3e9d4fb
 
 
